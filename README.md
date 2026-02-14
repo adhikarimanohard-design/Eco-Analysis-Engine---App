@@ -6,6 +6,8 @@ Is a desktop-based sustainability evaluation system that allows users to assess,
 
 This project is ideal as a student software engineering project, demonstrating skills in Java desktop development, data handling, analytics, and visualization.
 
+---
+
 🎥 Demo
 📺 YouTube Demo-:
 https://youtu.be/zHMX_A2dOCs?si=79Kk9Y5mBeEsH7UV

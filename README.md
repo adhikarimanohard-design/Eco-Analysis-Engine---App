@@ -193,14 +193,8 @@ Dark mode UI
 
 ---
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Adhikari Manohar Dash
-B.Tech CSE | Software Engineering Intern Aspirant
-
-
----
-
-⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to fork or contribute!
+**Adhikari Manohar Dash**  
+B.Tech CSE Student  
+Full Stack & AI Enthusiast
